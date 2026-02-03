@@ -1,0 +1,30 @@
+#header{
+    padding: 40px 0;
+}
+body{
+    background-image: url(../img/photo-1530638886726-284cde15fcbc.avif);
+    background-size: cover;
+    min-height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    margin-left: 100px;
+    p{
+        font-size: 26px;
+    }
+}
+.nav{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    font-size: 15px;
+    margin-left: 750px;
+    li{
+        list-style: none;
+    }
+}

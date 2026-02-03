@@ -1,0 +1,72 @@
+#hero{
+    padding: 100px 0;
+    color: white;
+}
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 100px;
+}
+.hero-text{
+    display: flex;
+    flex-direction: column;
+    gap: 75px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.hero-text h1{
+    font-size: 70px;
+}
+.hero-text button{
+    width: 140px;
+    height: 40px;
+    color: black;
+    background: #07DFF4;
+    border: none;
+    border-radius: 3px;
+}
+.app{
+    display: flex;
+    align-items: center;
+    gap: 120px;
+    margin-right: 200px;
+    margin-top: 160px;
+}
+.p img{
+    width: 73px;
+}
+.p{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 20px;
+}
+.jpn{
+    margin-top: 300px;
+    margin-left: 200px;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: #142628;
+    width: 300px;
+    height: 150px;
+    border-radius: 15px;
+    margin-left: 250px;
+}
+.card2{
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+.num{
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 100px;
+
+}
